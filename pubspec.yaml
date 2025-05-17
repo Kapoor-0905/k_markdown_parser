@@ -1,7 +1,8 @@
 name: k_markdown_parser
 description: "A simple markdown parsing package"
 version: 0.0.1
-homepage:
+homepage: "https://github.com/Kapoor-0905/k_markdown_parser.git"
+repository: "https://github.com/Kapoor-0905/k_markdown_parser.git"
 
 environment:
   sdk: ^3.7.0
